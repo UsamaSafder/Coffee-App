@@ -37,7 +37,7 @@ A fully responsive Recipe App built using **vanilla web technologies**—HTML5, 
 
 ## ✨ ScreenShot
 ![Recipe App Screenshot](Capture.PNG)
-![Recipe App Screenshot](Photo%202.PNG)
+
 
   
 
